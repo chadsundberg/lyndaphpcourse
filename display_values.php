@@ -1,3 +1,5 @@
+//this file contains the beginning of my learning the syntax of PHP
+
 <?php
 $firstName = 'David';
 $prenom = 'David';
